@@ -1,0 +1,61 @@
+Assignment-1 -09.03.26
+
+Temperature of a city in degrees
+ Celsius: 25.5= Data type= Number
+
+ Whether a customer has placed an order: true or false
+Data type= boolean
+
+Person's phone number: "123-456-7890"
+Data type= Number
+
+Amount of money in a customer's bank account: 1000.50
+Data type= Number
+
+Person's email address: "john.doe@example.com"
+Data type=String
+
+Coordinates of a location (latitude, longitude): 37.7749, -122.4194
+Data type=Number
+
+Person's marital status: true or false
+Data type= boolean
+
+Person's occupation: "Software Engineer"
+Data type=String
+
+Person's favourite colour: "Blue"
+Data type=String
+
+Current year: 2023
+Data type=number
+
+Number of followers on a social media platform: 1,000,000
+Data type=number
+
+Rating of a movie: 7.5
+Data type=Number
+
+Person's blood type: 'A'
+Data type=String
+
+Title of a book: "To Kill a Mockingbird"
+Data type=String
+
+Number of employees in a company: 500
+Data type=String number
+
+Time of an event: 2:30 PM
+Data type=Number
+Name of a country: "United States"
+Data type=String
+
+Person's eye color: "Brown"
+Data type=String
+
+Person's birthplace: "New York City"
+Data type=String
+
+Distance between two cities: 200.5
+Data type=number
+
